@@ -122,4 +122,4 @@ Please follow typical cleanliness and ethical feedback handling.
 
 ---
 
-Thank you for exploring **FUTURE_INTERNS**! Let me know if you’d like help generating the visuals, refining the NLP pipeline, or exporting a polished presentation.
+
